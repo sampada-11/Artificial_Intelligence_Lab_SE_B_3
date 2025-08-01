@@ -1,0 +1,23 @@
+﻿Lab 1 : Introduction to ChatGPT
+Introduction:
+AI models like ChatGPT are transforming in the way we interact with technology. Developed by OpenAI, ChatGPT is a conversational AI built on the GPT (Generative Pre-trained Transformer) architecture. It can understand, generate, and respond to text in a human-like manner.
+How It Works (In Simple Terms):
+ChatGPT uses the Transformer architecture, which was introduced in 2017. It’s trained on a large amount of text data and uses self-attention mechanisms to understand context. The training happens in two main stages:
+1. Pre-training: The model learns general language patterns from massive datasets.
+2. Fine-tuning: The model is improved using feedback from real human responses (using RLHF – Reinforcement Learning from Human Feedback).
+Visualization tools like attention maps help us understand how the model "pays attention" to different parts of input text while generating responses.
+Key Capabilities of ChatGPT:
+* Natural language conversations
+* Writing help (essays, stories, code, emails)
+* Code generation and debugging (Python, C++, Java, etc.)
+* Summarization and language translation
+* Image understanding (in GPT-4o)
+Real life scenario: Use Case: College Student Support (Education Sector).
+A student is having difficulty comprehending the Merge Sort algorithm in Data Structures.
+What ChatGPT do: 
+* The student initiates ChatGPT and enters:
+* "Explain merge sort in simple terms with an example in C++."
+How ChatGPT Reacts:
+* ChatGPT rapidly processes the question, knows the subject, and comes up with an easy-to-understand explanation accompanied by C++ code for merge sort. It can even provide step-by-step output or discuss time complexity.
+Conclusion:
+ChatGPT is a powerful example of how AI is changing industries. As an AI & DS student, learning how it works helps me understand real-world AI implementation. It’s not just about theory anymore—tools like ChatGPT show us how AI can solve real problems across fields like education, business, and healthcare.
